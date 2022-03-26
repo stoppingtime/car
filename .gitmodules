@@ -1,0 +1,75 @@
+[submodule "AI-Job-Resume"]
+	path = AI-Job-Resume
+	url = https://github.com/amusi/AI-Job-Resume
+[submodule "interview"]
+	path = interview
+	url = https://github.com/DWCTOD/interview
+[submodule "AI-job-interview"]
+	path = AI-job-interview
+	url = https://github.com/extreme-assistant/AI-job-interview
+[submodule "AI-Job-Notes"]
+	path = AI-Job-Notes
+	url = https://github.com/amusi/AI-Job-Notes
+[submodule "CV-Company-List"]
+	path = CV-Company-List
+	url = https://github.com/amusi/CV-Company-List
+[submodule "NLP-Interview"]
+	path = NLP-Interview
+	url = https://github.com/laddie132/NLP-Interview
+[submodule "2021_algorithm_intern_information"]
+	path = 2021_algorithm_intern_information
+	url = https://github.com/HarleysZhang/2021_algorithm_intern_information
+[submodule "LeetCode"]
+	path = LeetCode
+	url = https://github.com/NeilHUI/LeetCode
+[submodule "AI-job-ads"]
+	path = AI-job-ads
+	url = https://github.com/extreme-assistant/AI-job-ads
+[submodule "CV_interviews_Q-A"]
+	path = CV_interviews_Q-A
+	url = https://github.com/GYee/CV_interviews_Q-A
+[submodule "ai_position_internal_recommend"]
+	path = ai_position_internal_recommend
+	url = https://github.com/Lukerf/position_recommend
+[submodule "aijob-resume"]
+	path = aijob-resume
+	url = https://github.com/icodebase/aijob-resume
+[submodule "stairQuestion"]
+	path = stairQuestion
+	url = https://github.com/TonyaQi/stairQuestion
+[submodule "CV-implementations"]
+	path = CV-implementations
+	url = https://github.com/songquanpeng/CV-implementations
+[submodule "Al-interview"]
+	path = Al-interview
+	url = https://github.com/Aiyaaa/Al-interview
+[submodule "machine-learning"]
+	path = machine-learning
+	url = https://github.com/JiangHuiCheShen/machine-learning
+[submodule "MachineLearning-Note"]
+	path = MachineLearning-Note
+	url = https://github.com/starflowerlet/MachineLearning-Note
+[submodule "Awesome-Recommender-Systems-Interview"]
+	path = Awesome-Recommender-Systems-Interview
+	url = https://github.com/qiaolunzhang/Awesome-Recommender-Systems-Interview
+[submodule "python-algo-for-ai-interview"]
+	path = python-algo-for-ai-interview
+	url = https://github.com/jh101024/python_learning
+[submodule "Machine-Learning-Nodes"]
+	path = Machine-Learning-Nodes
+	url = https://github.com/CallmeZhouxiaolun/Machine-Learning-Nodes
+[submodule "ai-hunting-diary"]
+	path = ai-hunting-diary
+	url = https://github.com/pikachuuu108/Job-Hunting-Diary
+[submodule "ai-job-algo-interview-seems-hard"]
+	path = ai-job-algo-interview-seems-hard
+	url = https://github.com/taoqiongxing/Leetcode-91
+[submodule "Recommendation_algorithm_interview_questions-collection"]
+	path = Recommendation_algorithm_interview_questions-collection
+	url = https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection
+[submodule "AI-learning-notebook"]
+	path = AI-learning-notebook
+	url = https://github.com/AngelLover2017/AI-learning-notebook
+[submodule "AI-Job-Roadmap-With-Most-Stars"]
+	path = AI-Job-Roadmap-With-Most-Stars
+	url = https://github.com/amusi/AI-Job-Notes
